@@ -1,5 +1,5 @@
-﻿/*Пользователь вводит с клавиатуры M чисел. 
-Added a program that counts how many numbers greater than 0 the user has entered.*/
+﻿/*Пользователь вводит с клавиатуры M чисел. Посчитайте, 
+ сколько чисел больше 0 ввёл пользователь*/
 
 int BiggerThenZero(int size)
 {
